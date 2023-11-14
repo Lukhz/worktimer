@@ -6,6 +6,3 @@ This Projekt will be a Timer that helps to focus at work
 
 # Technologies 
 It will be programmed in Html with Javascript. 
-
-# Hostserver
-maybe i open a Hostserver
